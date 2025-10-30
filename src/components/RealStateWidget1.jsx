@@ -431,7 +431,7 @@ const handleCollapse = () => {
 
 
   return (
-    <div className={styles.wrapper} style={{backgroundImage:"url(https://www.datocms-assets.com/143478/1743156408-gr-hero.jpg?auto=format&fit=max&h=1920&q=85&w=1920)"}}>
+    <div className={styles.wrapper} style={{backgroundImage:"url(https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-24T07%253A47%253A29.162Z-Inline4.jpg&w=3840&q=75)"}}>
      {/* <div className={styles.boxImgCntr}>
       <img className={styles.boxImg} src="https://www.datocms-assets.com/143478/1743156408-gr-hero.jpg?auto=format&fit=max&h=1920&q=85&w=1920" alt="" /></div> */}
       <div className={styles.box} ref={containerRef}>

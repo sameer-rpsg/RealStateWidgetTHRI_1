@@ -7807,6 +7807,24 @@ a {
   .data-source-heading {
     font-size: 28px !important;
   }
+  .Stories_grid__YZ_gk {
+        display: grid
+;
+        grid-template-columns: 1fr !important;
+        grid-gap: 0 !important;
+        gap: 0 !important;
+        padding: 2px 0 !important;
+    }
+    .Stories_grid__YZ_gk, .Stories_row__bZ032 {
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+    }
+        .Stories_relatedPostCard__Chg_m {
+        padding-block: 10px;
+    }
+        .Stories_grid__YZ_gk .Stories_relatedPostCard__Chg_m, .Stories_row__bZ032 .Stories_relatedPostCard__Chg_m {
+        border-bottom: 1px dotted #000;
+    }
 }
 
 @media screen and (min-width: 426px) and (max-width: 900px) {
@@ -8161,6 +8179,9 @@ a {
         opacity: 1;
         transform: translateY(25px);
     }
+        .Stories_contentSec__EbmC6 h1 {
+        font-size: 40px;
+    }
 }
 /* storiessection */
 
@@ -8300,6 +8321,22 @@ a {
     margin: 4px auto;
     transition: all .3s 
 ease-in-out;
+}
+.Stories_grid__YZ_gk {
+    display: grid
+;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 30px;
+    gap: 30px;
+}
+.Stories_grid__YZ_gk .Stories_relatedPostCard__Chg_m {
+    display: flex !important
+;
+    gap: 10px !important;
+    border-left: none !important;
+    border-radius: 0 !important;
+    overflow: hidden;
+    color: inherit !important;
 }
 @media only screen and (max-width: 900px) {
   .Header_Wrapper {

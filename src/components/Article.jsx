@@ -8,8 +8,8 @@ const Article = () => {
       data-current="true"
       data-promotional="false"
       islast="false"
-      data-id="68c7ec4d0215019d6ccfd0e0"
-      data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+      data-id="68d3a2bb0b49d6ebee18e9d2"
+      data-slug="/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
       style={{ position: "relative" }}
     >
       <section id="storiesherosec" className="Stories_storiesHeroSec__eOd_9">
@@ -19,27 +19,27 @@ const Article = () => {
               <div className="Stories_breadcumSec__5W47j">
                 <ol className="Stories_breadcrumb__GxI6O">
                   <li className="Stories_breadcrumb-item__0eUTU">
-                    <a href="/features">Features</a>
+                    <a href="/lifestyle">Lifestyle</a>
                   </li>
                   <li className="Stories_breadcrumb-item__0eUTU">
-                    <a href="/features/insight">Insight</a>
+                    <a href="/lifestyle/interiors">Interiors</a>
                   </li>
                 </ol>
               </div>
               <div className="Stories_contentSec__EbmC6">
                 <h1>
-                  Dulquer Salmaan On Pan-Indian Success of 'Lokah': 'We Thought
-                  We Might Lose Money on This Film'
+                  Shah Rukh Khan to Ranveer Singh: Everything to Know About
+                  Actors' Vanity Vans in Bollywood
                 </h1>
                 <p>
-                  Actor-producer Dulquer Salmaan says that the team braced for a
-                  loss before 'Lokah: Chapter 1 - Chandra' became a nationwide
-                  hit.{" "}
+                  From practical necessity to gilded fortress, vanity vans in
+                  Bollywood have become the truest measure of stardom in Indian
+                  cinema.
                 </p>
                 <div className="Stories_author_wrapper__X_Bc3">
                   <div>
                     <img
-                      alt="Team THR India"
+                      alt="Anushka Halve"
                       loading="lazy"
                       width={50}
                       height={50}
@@ -47,7 +47,7 @@ const Article = () => {
                       data-nimg={1}
                       className="Stories_author_image__mA2__"
                       style={{ color: "transparent" }}
-                      srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-09-22T13%253A03%253A07.306Z-100x100%2520THR%2520favicon.png&w=128&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Fwriter%2F-2024-09-21T09%253A25%253A42.859Z-WhatsApp%2520Image%25202024-09-20%2520at%252015.17.26_e9f03dfc.jpg&w=128&q=75"
                     />
                   </div>
                   <div className="Stories_author_right__4NHrP">
@@ -61,9 +61,7 @@ const Article = () => {
                     >
                       <span className="Stories_author_name__6fo16">
                         By{/* */}{" "}
-                        <span style={{ cursor: "pointer" }}>
-                          Team THR India
-                        </span>
+                        <span style={{ cursor: "pointer" }}>Anushka Halve</span>
                       </span>
                       <span>
                         <svg
@@ -93,7 +91,7 @@ const Article = () => {
                       </span>
                     </div>
                     <span className="Stories_timeline__WwKrc">
-                      LAST UPDATED: {/* */}SEP 15, 2025, 17:17 IST
+                      LAST UPDATED: {/* */}OCT 22, 2025, 15:20 IST
                     </span>
                     <span
                       className="Stories_timeline__WwKrc"
@@ -115,7 +113,7 @@ const Article = () => {
               <ul className="Stories_followus__pCkrF">
                 <a
                   target="_blank"
-                  href="https://wa.me/?text=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://wa.me/?text=https://www.hollywoodreporterindia.com/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -137,7 +135,7 @@ const Article = () => {
                 </a>
                 <a
                   target="_blank"
-                  href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film&redirect_uri=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://www.facebook.com/dialog/share?app_id=145634995501895&display=popup&href=https://www.hollywoodreporterindia.com/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood&redirect_uri=https://www.hollywoodreporterindia.com/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -159,7 +157,7 @@ const Article = () => {
                 </a>
                 <a
                   target="_blank"
-                  href="https://twitter.com/intent/tweet?text=https://www.hollywoodreporterindia.com/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+                  href="https://twitter.com/intent/tweet?text=https://www.hollywoodreporterindia.com/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
                 >
                   <li className="Stories_items__gSCVK">
                     <span className="Stories_tooltipText__7XsEo">
@@ -201,16 +199,11 @@ const Article = () => {
             <div className="col-md-12">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-top-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-top-68d3a2bb0b49d6ebee18e9d2"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CLO5mb-G3Y8DFUmoZgIdI6kE2w"
-                >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-Top-970_0__container__"
-                    // style={{ border: "0pt none", width: 970, height: 0 }}
-                  />
-                </div>
+                  data-google-query-id="CP6_2Of-y5ADFfml2AUdq343lQ"
+                ></div>
               </div>
             </div>
           </div>
@@ -227,7 +220,7 @@ const Article = () => {
                 <div className="Stories_heroImgCont__wemPS">
                   <div className="pos-rel-full">
                     <img
-                      alt="Dulquer Salmaan talks about surpassing expectations with 'Lokah'"
+                      alt="The inside of a Bollywood vanity van"
                       loading="lazy"
                       decoding="async"
                       data-nimg="fill"
@@ -242,7 +235,7 @@ const Article = () => {
                         color: "transparent",
                       }}
                       sizes="100vw"
-                      srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T10%253A54%253A22.589Z-IMG_4145.JPEG&w=1920&q=75"
+                      src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-29T10%253A02%253A34.200Z-New_Lead2.jpg&w=3840&q=75"
                     />
                   </div>
                 </div>
@@ -255,8 +248,13 @@ const Article = () => {
             <div className="col-md-12 text-start">
               <div className="Stories_mainCaption__CKMoz">
                 <span className="Stories_caption__pLYWo">
-                  Dulquer Salmaan talks about surpassing expectations with
-                  'Lokah'
+                  The inside of a Bollywood vanity van; these vehicles are
+                  portable fortresses: equal parts dressing room, lounge,
+                  therapist’s couch, status symbol, and, occasionally, an altar
+                  of ego.
+                </span>
+                <span className="Stories_courtesy__IorTZ">
+                  Illustration by Jit Ray.
                 </span>
               </div>
             </div>
@@ -277,52 +275,625 @@ const Article = () => {
                     >
                       <p style={{ textAlign: "left" }} />
                       <p style={{ textAlign: "left" }}>
-                        <span>In an exclusive conversation with </span>
-                        <span style={{ fontStyle: "italic" }}>
-                          The Hollywood Reporter India
+                        <span>
+                          When on a film set, a van is never just a van. The
+                          gleaming caravans parked a few metres away from the
+                          camera rigs and catering counters are not simply
+                          places to nap between takes or slip into a costume.
+                          They are portable fortresses: equal parts dressing
+                          room, lounge, therapist’s couch, status symbol, and,
+                          occasionally, an altar of ego.
                         </span>
-                        <span>, </span>
+                      </p>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          ​“Ranveer Singh requires three vanity vans when he’s
+                          on a shoot schedule,” says a source close to the
+                          actor. “One is for his personal use, one is a gym van,
+                          one is for his private chef,” they add.
+                        </span>
+                      </p>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div
+                          className="Stories_image__Y76tU"
+                          style={{ width: "100%" }}
+                        >
+                          <img
+                            alt="Vanity vans designed by Studio Gloom for the celebrity clients of Apurva Deshmukh and Prateek Malewar, including names like Kangana Ranaut, Varun Dhawan,  Nayanthara, Kiara Advani, and Vicky Kaushal."
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-24T07%253A47%253A29.148Z-Inline1.jpg&w=3840&q=75"
+                          />
+                          <div className="Stories_mainCaption__CKMoz">
+                            <span className="Stories_caption__pLYWo">
+                              Vanity vans designed by Studio Gloom for the
+                              celebrity clients of Apurva Deshmukh and Prateek
+                              Malewar, including names like Kangana Ranaut,
+                              Varun Dhawan, Nayanthara, Kiara Advani,
+                              and&nbsp;Vicky&nbsp;Kaushal.
+                            </span>
+                            <span className="Stories_courtesy__IorTZ">
+                              courtesy of the subject
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                      <h2
+                        style={{
+                          textAlign: "left",
+                          fontSize: "34px!important",
+                        }}
+                      >
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          The Measure of a Van
+                        </span>
+                      </h2>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          The concept of a vanity van has its roots in the
+                          practical chaos of the film set. “Back in the day even
+                          the biggest actors and actresses would have to change
+                          in makeshift places when they were on an outdoor
+                          schedule. It was especially daunting for women because
+                          they would have to change behind four people holding a
+                          sari,” says Ketan Raval.
+                        </span>
+                      </p>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          Raval is India’s leading vanity van vendor, who
+                          currently own 70 vans that are in daily use. Shooting
+                          a film can mean 12 to 16-hour-days on far-flung
+                          locations, often under the punishing sun or in remote
+                          villages where bathrooms are a luxury. The caravan
+                          became a practical solution: a place to change
+                          costumes, fix make-up, and rest between takes. “Poonam
+                          Dhillon introduced vanity vans in our film industry.
+                          Her vanity van was inaugurated by Amitabh Bachchan —
+                          it was a very big deal,” says Raval.
+                        </span>
+                      </p>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div className="Stories_relatedPostWrapper__sQzlS">
+                          <h2 className="Stories_relatedPostHeading__7h_ax">
+                            You may also like
+                          </h2>
+                          <div
+                            className="Stories_row__bZ032"
+                            style={{ width: "100%" }}
+                          >
+                            <a
+                              className="Stories_relatedPostCard__Chg_m"
+                              target="_blank"
+                              href="/features/interviews/bollywood-celebrity-astrologers-how-big-decisions-in-cinema-are-made-after-a-call-to-the-stargazers"
+                            >
+                              <div className="Stories_relatedPostImage__mctc0">
+                                <img
+                                  alt="Behind closed doors and under tight confidentiality, a league of celebrity astrologers like Jumaani, Dr. Sohini Sastri and Sundeep Kochar are shaping careers, advising on film titles and even predicting babies before they’re conceived."
+                                  loading="lazy"
+                                  decoding="async"
+                                  data-nimg="fill"
+                                  className="imgcover"
+                                  sizes="100vw"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-23T06%253A41%253A55.612Z-Lead.jpg&w=3840&q=75"
+                                  style={{
+                                    position: "absolute",
+                                    height: "100%",
+                                    width: "100%",
+                                    inset: 0,
+                                    objectFit: "cover",
+                                    color: "transparent",
+                                  }}
+                                />
+                              </div>
+                              <div className="w-100 bg-red-100">
+                                <h3 className="Stories_category__PMzs5 mt-0 mb-1">
+                                  Interviews
+                                </h3>
+                                <h3 className="Stories_card-title__yoKzB mb-0">
+                                  Bollywood Celebrity Astrologers: How Big
+                                  Decisions in Cinema Are Made After a Call to
+                                  the Stargazers
+                                </h3>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <RealStateWidget1 />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          But as the industry grew, and stardom became an
+                          industrial product of its own, the vans began to swell
+                          in ambition. “It started as a functional thing, now
+                          it’s more about the optics of who has what in their
+                          van,” says Raval. What was once a rolling changing
+                          room transformed into a mobile palace. By 2009, for
+                          stars like{" "}
+                        </span>
                         <a
                           target="_blank"
                           rel="noopener noreferrer"
-                          href="https://www.hollywoodreporterindia.com/tag/dulquer-salmaan"
+                          href="https://www.hollywoodreporterindia.com/tag/shah-rukh-khan"
                         >
-                          <span>actor-producer Dulquer Salmaan</span>
+                          <span>Shah Rukh Khan</span>
+                        </a>
+                        <span>
+                          , the vanity van became shorthand for status. “Shah
+                          Rukh sir’s van is so big that sometimes he can’t take
+                          it to those remote locations. I send my van whenever
+                          he has to shoot in tight spaces,” says Raval.
+                        </span>
+                      </p>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div
+                          className="Stories_image__Y76tU"
+                          style={{ width: "100%" }}
+                        >
+                          <img
+                            alt="Inside the Vanity van"
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-24T07%253A47%253A29.164Z-Inline5.jpg&w=3840&q=75"
+                          />
+                          <div className="Stories_mainCaption__CKMoz">
+                            <span className="Stories_caption__pLYWo">
+                              Inside the van.
+                            </span>
+                            <span className="Stories_courtesy__IorTZ">
+                              courtesy of the subject
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                      <h2
+                        style={{
+                          textAlign: "left",
+                          fontSize: "34px!important",
+                        }}
+                      >
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Wheel of Fortune
+                        </span>
+                      </h2>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          John Abraham’s van, for instance, required a full
+                          structural re-engineering. “He wanted floor-to-ceiling
+                          windows so he could look out and let natural light
+                          flood the space,” recalls Raval. “But he also insists
+                          on everything being black — the floor, the walls, the
+                          sink, even the toilet. Nothing that isn’t black. So,
+                          the only light that enters is framed by an entirely
+                          dark box.”
+                        </span>
+                      </p>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          Kangana Ranaut’s vanity van, meanwhile, is among the
+                          industry’s most expensive. “She wanted solid sheesham
+                          wood interiors. It’s not only difficult to source but
+                          also extremely hard to maintain,” says Prateek
+                          Malewar, who builds luxury vans with partner Apurva
+                          Deshmukh. “Kangana ma’am was personally involved in
+                          the design. She’d sit with us to choose fabrics,
+                          prints, the works. She didn’t treat it like a van, she
+                          treated it like a home,” says Deshmukh.
+                        </span>
+                      </p>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          Sometimes, the demands teeter on the absurd. “One
+                          actor asked if we could shift all the switchboards to
+                          the floor so they wouldn’t appear in their selfies,”
+                          Malewar says. “That’s just not practical. We had to
+                          say no, but most times we bend over backwards to
+                          accommodate eccentric requests.”
+                        </span>
+                      </p>
+                      <div>
+                        <div className="ad-flex-all">
+                          <div
+                            id="div-gpt-ad-stories-middle-68d3a2bb0b49d6ebee18e9d2-19"
+                            data-cy="Ad"
+                            className="ad-text"
+                            data-google-query-id="CMnw2Of-y5ADFV6i2AUdzNgJ8Q"
+                            style={{ marginBottom: 20 }}
+                          ></div>
+                        </div>
+                      </div>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          And then there are the sensory quirks. “Parineeti
+                          Chopra doesn’t like room fresheners. She’ll only use
+                          incense sticks from one particular shop in Juhu,” says
+                          Raval. “So, every time her van is sent, there’s a boy
+                          whose only job is to fetch those exact sticks and make
+                          sure the van is ready before she arrives.”
+                        </span>
+                      </p>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          This idea of the van being “ready” is a recurring
+                          theme. “Actors have refused to shoot if their vanity
+                          vans weren’t ready,” says a production insider. “The
+                          tantrum is part of the optics. If you don’t have oddly
+                          specific demands, how will anyone know you’re a star?”
+                        </span>
+                      </p>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div className="Stories_relatedPostWrapper__sQzlS">
+                          <h2 className="Stories_relatedPostHeading__7h_ax">
+                            You may also like
+                          </h2>
+                          <div
+                            className="Stories_grid__YZ_gk"
+                            style={{ width: "100%" }}
+                          >
+                            <a
+                              className="Stories_relatedPostCard__Chg_m"
+                              target="_blank"
+                              href="/lifestyle/travel/celebrity-cars-what-do-prabhas-hrithik-allu-arjun-hrithik-roshan-and-shraddha-kapoor-drive"
+                            >
+                              <div className="Stories_relatedPostImage__mctc0">
+                                <img
+                                  alt="Natasha Poonawalla and her McLaren 720s"
+                                  loading="lazy"
+                                  decoding="async"
+                                  data-nimg="fill"
+                                  className="imgcover"
+                                  sizes="100vw"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-08-13T08%253A27%253A24.645Z-Inline1.jpg&w=3840&q=75"
+                                  style={{
+                                    position: "absolute",
+                                    height: "100%",
+                                    width: "100%",
+                                    inset: 0,
+                                    objectFit: "cover",
+                                    color: "transparent",
+                                  }}
+                                />
+                              </div>
+                              <div className="w-100 bg-red-100">
+                                <h3 className="Stories_category__PMzs5 mt-0 mb-1">
+                                  Travel
+                                </h3>
+                                <h3 className="Stories_card-title__yoKzB mb-0">
+                                  Celebrity Cars: From Prabhas and Hrithik
+                                  Roshan to M.S. Dhoni and Natasha Poonawalla,
+                                  Who Drives What?
+                                </h3>
+                              </div>
+                            </a>
+                            <a
+                              className="Stories_relatedPostCard__Chg_m"
+                              target="_blank"
+                              href="/lifestyle/travel/how-cinema-inspired-travel-is-creating-a-new-wave-of-pilgrimage-tourism"
+                            >
+                              <div className="Stories_relatedPostImage__mctc0">
+                                <img
+                                  alt="A 350-kilogram bronze statue of Yash Chopra in Interlaken."
+                                  loading="lazy"
+                                  decoding="async"
+                                  data-nimg="fill"
+                                  className="imgcover"
+                                  sizes="100vw"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-06-17T09%253A19%253A15.486Z-Lead.jpg&w=3840&q=75"
+                                  style={{
+                                    position: "absolute",
+                                    height: "100%",
+                                    width: "100%",
+                                    inset: 0,
+                                    objectFit: "cover",
+                                    color: "transparent",
+                                  }}
+                                />
+                              </div>
+                              <div className="w-100 bg-red-100">
+                                <h3 className="Stories_category__PMzs5 mt-0 mb-1">
+                                  Travel
+                                </h3>
+                                <h3 className="Stories_card-title__yoKzB mb-0">
+                                  How Cinema-Inspired Travel Is Creating a New
+                                  Wave of Pilgrimage Tourism
+                                </h3>
+                              </div>
+                            </a>
+                          </div>
+                        </div>
+                      </div>
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          The latest obsession? Gym vans. “Many actors now
+                          prefer to have a gym van accompany them on outdoor
+                          schedules so they can sneak in a workout during
+                          breaks,” says Malewar. “One superstar even asked us to
+                          create a secret entry point between his main van and
+                          his gym van, so that the media wouldn’t see him
+                          stepping out all sweaty post-workout,”
+                          says&nbsp;Deshmukh.
+                        </span>
+                      </p>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div
+                          className="Stories_image__Y76tU"
+                          style={{ width: "100%" }}
+                        >
+                          <img
+                            alt="Inside a celebrity vanity van."
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-24T07%253A47%253A29.162Z-Inline4.jpg&w=3840&q=75"
+                          />
+                          <div className="Stories_mainCaption__CKMoz">
+                            <span className="Stories_caption__pLYWo">
+                              Inside a celebrity vanity van.
+                            </span>
+                            <span className="Stories_courtesy__IorTZ">
+                              courtesy of the subject
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          It raises the question: is this about comfort or
+                          control? Perhaps both. The van doesn’t just protect
+                          the star from dust and heat; it insulates them from
+                          the faintest whiff of ordinariness.{" "}
+                        </span>
+                      </p>
+                      <h2
+                        style={{
+                          textAlign: "left",
+                          fontSize: "34px!important",
+                        }}
+                      >
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          Devil’s in the Details
+                        </span>
+                      </h2>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          The vanity van is also a marker of hierarchy, and it
+                          isn’t as simple as who owns the biggest one. “
+                        </span>
+                        <a
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          href="https://www.hollywoodreporterindia.com/features/insight/sunny-deol-teams-up-with-farhan-akhtars-excel-entertainment-for-an-action-thriller"
+                        >
+                          <span>Sunny Deol</span>
                         </a>
                         <span>
                           {" "}
-                          opened up about the overwhelming success of{" "}
+                          once asked me to design a van that could expand
+                          sideways — from the standard eight feet of width to 11
+                          feet — so that the interiors felt less cramped,”
+                          recalls Raval. “He also wanted sunroofs, because he
+                          likes natural ventilation.”
                         </span>
-                        <a
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          style={{ fontStyle: "italic" }}
-                          href="https://www.hollywoodreporterindia.com/features/insight/lokah-crosses-200-crore-ranks-4th-among-all-time-malayalam-blockbusters"
+                      </p>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          Hierarchy is coded into the details. “If you step into
+                          a van, just look at the chairs,” says Raval. “Rexine,
+                          leather or fabric — that instantly tells you where it
+                          sits on the price ladder. Then check the walls: are
+                          they linoleum, wallpaper, or painted? Paint is the
+                          costliest because it needs multiple coats and far more
+                          labour,” he adds.
+                        </span>
+                      </p>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          And then there’s the invisible signifier: adhesive. “A
+                          van is constantly on the move, so everything inside
+                          has to be either bolted down or glued in place. The
+                          quality of that adhesive makes all the difference,”
+                          explains Malewar. Deshmukh jumps in: “Cheaper adhesive
+                          can’t withstand the heat. After a full day parked
+                          under the sun, it starts to release fumes. Imagine
+                          walking into your vanity after a 14-hour shoot and
+                          being hit with toxic glue smells. That’s why the more
+                          expensive vans use high-grade adhesive — it doesn’t
+                          fume, and that silence is its own luxury.”
+                        </span>
+                      </p>
+                      <h2
+                        style={{
+                          textAlign: "left",
+                          fontSize: "34px!important",
+                        }}
+                      >
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          The Politics of Parking
+                        </span>
+                      </h2>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          The way vans are parked on a film set can reveal more
+                          about hierarchy than a film’s opening credits. “A
+                          superstar won’t allow their van to be parked next to
+                          another star’s,” one production manager says. “Because
+                          parking side by side suggests equality. And in this
+                          business, there is no such thing as&nbsp;equality.”
+                        </span>
+                      </p>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          The positioning is often a delicate negotiation. Whose
+                          van gets the closest spot to the set? Whose has shade?
+                          More than once, entire shoots have been delayed
+                          because a star was unhappy with their van’s placement.
+                        </span>
+                      </p>
+                      <div>
+                        <div className="ad-flex-all">
+                          <div
+                            id="div-gpt-ad-stories-middle-68d3a2bb0b49d6ebee18e9d2-39"
+                            data-cy="Ad"
+                            className="ad-text"
+                            data-google-query-id="CNfI2ef-y5ADFcOg2AUduFIXZA"
+                            style={{ marginBottom: 20 }}
+                          ></div>
+                        </div>
+                      </div>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          For junior actors and background performers, the
+                          absence of a van is not just inconvenient; it is
+                          humiliating. Many change under tarpaulin tents,
+                          crouching behind makeshift curtains while the stars
+                          sip cold brew in leather recliners. For them, the van
+                          is both aspiration and reminder. A symbol of what they
+                          don’t yet have, and perhaps never will.
+                        </span>
+                      </p>
+                      <p style={{ textAlign: "left" }} />
+                      <p style={{ textAlign: "left" }}>
+                        <span>
+                          “Things are changing. Big production houses make sure
+                          that there’s at least one common van for all the
+                          junior artists. But it’s usually a two-door van with
+                          the bare minimum,” says Raval.
+                        </span>
+                      </p>
+                      <div
+                        style={{
+                          display: "flex",
+                          justifyContent: "center",
+                          width: "100%",
+                          margin: "20px 0",
+                        }}
+                      >
+                        <div
+                          className="Stories_image__Y76tU"
+                          style={{ width: "100%" }}
                         >
-                          <span style={{ fontStyle: "italic" }}>
-                            Lokah: Chapter 1 — Chandra
-                          </span>
-                        </a>
+                          <img
+                            alt="Inside a celebrity vanity van."
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-24T07%253A47%253A29.160Z-Inline3.jpg&w=3840&q=75"
+                          />
+                          <div className="Stories_mainCaption__CKMoz">
+                            <span className="Stories_caption__pLYWo">
+                              Inside a celebrity vanity van.
+                            </span>
+                            <span className="Stories_courtesy__IorTZ">
+                              courtesy of the subject
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                      <p style={{ textAlign: "left" }}>
                         <span>
-                          , a film that has not only resonated with Malayalam
-                          audiences but has also broken barriers to become a
-                          pan-India cultural phenomenon.
+                          On the one hand, a vanity van is a practical refuge in
+                          an industry that grinds bodies and psyches into
+                          exhaustion. On the other, it is a gilded bubble that
+                          isolates stars from the very crews who build their
+                          films. In a way, the van is the truest metaphor for
+                          stardom. Outwardly glamorous, inwardly insulated.
                         </span>
                       </p>
                       <p style={{ textAlign: "left" }} />
                       <p style={{ textAlign: "left" }}>
                         <span>
-                          Reflecting on the project, Dulquer admitted the team
-                          had modest expectations. “This is our seventh
-                          production, and we've always managed to land safe. But
-                          nothing has been like{" "}
-                        </span>
-                        <span style={{ fontStyle: "italic" }}>Lokah</span>
-                        <span>
-                          ,” he said. “Even as an actor, none of my films have
-                          exploded like this. It’s been accepted across
-                          demographics and has now become a part of pop culture.
-                          That’s what's most exciting.”
+                          The measure of a star, then, is not just limited to
+                          their fan following, but the size, design, and
+                          specificity of their van. An actor’s three-van convoy
+                          might signal an attempt to manage the optics of their
+                          stardom; box office be damned. An expanding vanity
+                          that stretches sideways to claim more space can be
+                          less a vehicle and more an announcement of a second
+                          coming. The van becomes both prediction
+                          and&nbsp;proclamation.
                         </span>
                       </p>
                       <div
@@ -344,17 +915,17 @@ const Article = () => {
                             <a
                               className="Stories_relatedPostCard__Chg_m"
                               target="_blank"
-                              href="/features/insight/mammootty-is-moothon-dulquer-salmaan-confirms-he-played-the-character-in-lokah"
+                              href="/features/insight/a-celebritys-guide-to-social-media-what-to-post-what-to-avoid-and-how-to-navigate-instagram"
                             >
                               <div className="Stories_relatedPostImage__mctc0">
                                 <img
-                                  alt="Mammootty Is Moothon; Dulquer Salmaan Confirms He Played The Character In 'Lokah'"
+                                  alt="Actors Getting It Right: Sanya Malhotra, Diljit Dosanjh, and Shraddha Kapoor"
                                   loading="lazy"
                                   decoding="async"
                                   data-nimg="fill"
                                   className="imgcover"
                                   sizes="100vw"
-                                  srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-08T06%253A08%253A55.327Z-Untitled%2520design-174.jpg&w=1920&q=75"
+                                  src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-07-17T09%253A18%253A18.561Z-Collage.jpg&w=3840&q=75"
                                   style={{
                                     position: "absolute",
                                     height: "100%",
@@ -370,176 +941,162 @@ const Article = () => {
                                   Insight
                                 </h3>
                                 <h3 className="Stories_card-title__yoKzB mb-0">
-                                  Mammootty Is Moothon: Dulquer Salmaan Confirms
-                                  He Played The Role In 'Lokah Chapter One:
-                                  Chandra'
+                                  A Celebrity's Guide to Social Media: What to
+                                  Post, What to Avoid and How To Navigate
+                                  Instagram{" "}
                                 </h3>
                               </div>
                             </a>
                           </div>
                         </div>
                       </div>
-                      <RealStateWidget1/>
-                      <div>
-                        <div className="ad-flex-all">
-                          <div
-                            id="div-gpt-ad-stories-middle-68c7ec4d0215019d6ccfd0e0-4"
-                            data-cy="Ad"
-                            className="ad-text"
-                            data-google-query-id="CMDvnL-G3Y8DFbOrZgId-TUq6w"
-                            style={{ marginBottom: 20 }}
-                          >
-                            <div
-                              id="google_ads_iframe_/23290324739/THRI-Desktop-Middle-300_0__container__"
-                              style={{
-                                border: "0pt none",
-                                width: 300,
-                                height: 0,
-                              }}
-                            />
-                          </div>
-                        </div>
-                      </div>
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          Dulquer revealed that the initial projections were far
-                          from optimistic. “Honestly, we were bracing ourselves
-                          for a potential loss. We believed in the film, but
-                          weren’t sure how it would perform commercially,” he
-                          shared. “Buyers weren’t lining up, and we had made
-                          peace with the idea that we might take a hit on the
-                          first film of the franchise.”
-                        </span>
-                      </p>
                       <p style={{ textAlign: "left" }} />
                       <p style={{ textAlign: "left" }}>
                         <span>
-                          But what followed was nothing short of extraordinary.
-                          From day one, Lokah began receiving rave reviews from
-                          all corners of the country. “I was seeing reactions
-                          from across India. It’s a testament to how audiences
-                          today are open to different languages and storytelling
-                          styles. People gave the film a chance on release day
-                          itself—watched it, reviewed it, made reels about it.
-                          It was surreal.”
+                          Because in this industry, the van makes the vanity.
+                          And sometimes, the vanity makes the star.
                         </span>
                       </p>
-                      <div
+                      <hr />
+                      <h2
                         style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                          margin: "20px 0",
+                          textAlign: "left",
+                          fontSize: "34px!important",
                         }}
                       >
-                        <div className="Stories_relatedPostWrapper__sQzlS">
-                          <h2 className="Stories_relatedPostHeading__7h_ax">
-                            You may also like
-                          </h2>
-                          <div
-                            className="Stories_row__bZ032"
-                            style={{ width: "100%" }}
-                          >
-                            <a
-                              className="Stories_relatedPostCard__Chg_m"
-                              target="_blank"
-                              href="/features/insight/lokah-michael-and-charlie-to-get-standalone-films-in-the-malayalam-films-universe"
-                            >
-                              <div className="Stories_relatedPostImage__mctc0">
-                                <img
-                                  alt=" Tovino Thomas and Dulquer Salmaan "
-                                  loading="lazy"
-                                  decoding="async"
-                                  data-nimg="fill"
-                                  className="imgcover"
-                                  sizes="100vw"
-                                  srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T09%253A47%253A33.289Z-tovino%2520and%2520dulquer.jpg&w=1920&q=75"
-                                  style={{
-                                    position: "absolute",
-                                    height: "100%",
-                                    width: "100%",
-                                    inset: 0,
-                                    objectFit: "cover",
-                                    color: "transparent",
-                                  }}
-                                />
-                              </div>
-                              <div className="w-100 bg-red-100">
-                                <h3 className="Stories_category__PMzs5 mt-0 mb-1">
-                                  Insight
-                                </h3>
-                                <h3 className="Stories_card-title__yoKzB mb-0">
-                                  'Lokah': Michael and Charlie to Get Standalone
-                                  Films in The Malayalam Film's Universe?
-                                </h3>
-                              </div>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                      <p style={{ textAlign: "left" }}>
-                        <span>
-                          The actor-producer admitted that the magnitude of the
-                          film's success took the entire team by surprise. “We
-                          were all in disbelief. It just blew up. And suddenly
-                          the conversation shifted from ‘will it work?’ to ‘what
-                          do we do about the next one?’,” he laughed. “It’s
-                          exciting, but yeah—no pressure!”
+                        <span style={{ color: "rgb(0, 0, 0)" }}>
+                          The Cost of Vanity
                         </span>
-                      </p>
-                      <div>
-                        <div className="ad-flex-all">
-                          <div
-                            id="div-gpt-ad-stories-middle-68c7ec4d0215019d6ccfd0e0-9"
-                            data-cy="Ad"
-                            className="ad-text"
-                            data-google-query-id="CJOZnr-G3Y8DFTGkZgIddxc2bw"
-                            style={{ marginBottom: 20 }}
-                          >
-                            <div
-                              id="google_ads_iframe_/23290324739/THRI-Desktop-Middle-300_1__container__"
-                              style={{
-                                border: "0pt none",
-                                width: 300,
-                                height: 0,
-                              }}
-                            />
-                          </div>
-                        </div>
-                      </div>
+                      </h2>
                       <p style={{ textAlign: "left" }} />
+                      <ul start={1} className="Stories_listStyle__tG5ox">
+                        <li>
+                          <p style={{ textAlign: "left" }}>
+                            <span>
+                              Annual maintenance runs into ₹10 lakh-₹15 lakh,
+                              covering generator fuel, cleaning staff,
+                              air-conditioning upkeep, and interior
+                              refurbishments.
+                            </span>
+                          </p>
+                          <div>
+                            <div className="ad-flex-all">
+                              <div
+                                id="div-gpt-ad-stories-middle-undefined-0"
+                                data-cy="Ad"
+                                className="ad-text"
+                                data-google-query-id="CO2A2-f-y5ADFVab2AUdy5otPA"
+                                style={{ marginBottom: 20 }}
+                              ></div>
+                            </div>
+                          </div>
+                        </li>
+                        <li>
+                          <p style={{ textAlign: "left" }}>
+                            <span>
+                              Basic model: ₹15 lakh-₹20 lakh (just a dressing
+                              space with an air conditioner).
+                            </span>
+                          </p>
+                          <div>
+                            <div className="ad-flex-all">
+                              <div
+                                id="div-gpt-ad-stories-middle-undefined-0"
+                                data-cy="Ad"
+                                className="ad-text"
+                                style={{ marginBottom: 20 }}
+                              />
+                            </div>
+                          </div>
+                        </li>
+                        <li>
+                          <p style={{ textAlign: "left" }}>
+                            <span>
+                              Mid-range: ₹35 lakh-₹50 lakh (sofas, small pantry,
+                              TV, modest washroom).
+                            </span>
+                          </p>
+                          <div>
+                            <div className="ad-flex-all">
+                              <div
+                                id="div-gpt-ad-stories-middle-undefined-0"
+                                data-cy="Ad"
+                                className="ad-text"
+                                style={{ marginBottom: 20 }}
+                              />
+                            </div>
+                          </div>
+                        </li>
+                        <li>
+                          <p style={{ textAlign: "left" }}>
+                            <span>
+                              High-end custom van: ₹75 lakh-₹1.5 crore (Italian
+                              marble, luxury recliners, gym&nbsp;equipment).
+                            </span>
+                          </p>
+                          <div>
+                            <div className="ad-flex-all">
+                              <div
+                                id="div-gpt-ad-stories-middle-undefined-0"
+                                data-cy="Ad"
+                                className="ad-text"
+                                style={{ marginBottom: 20 }}
+                              />
+                            </div>
+                          </div>
+                        </li>
+                        <li>
+                          <p style={{ textAlign: "left" }}>
+                            <span>
+                              Top-tier “super vans”: ₹2 crore-₹3 crore
+                              (multi-room set-ups with expanding
+                              living&nbsp;space).
+                            </span>
+                          </p>
+                          <div>
+                            <div className="ad-flex-all">
+                              <div
+                                id="div-gpt-ad-stories-middle-undefined-0"
+                                data-cy="Ad"
+                                className="ad-text"
+                                style={{ marginBottom: 20 }}
+                              />
+                            </div>
+                          </div>
+                        </li>
+                      </ul>
+                      <hr />
                       <p style={{ textAlign: "left" }}>
-                        <span>As </span>
-                        <span style={{ fontStyle: "italic" }}>Lokah </span>
-                        <span>
-                          continues to dominate conversations, Dulquer's journey
-                          as a risk-taking producer and actor cements his place
-                          as one of Indian cinema’s most dynamic forces.
+                        <span
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
+                        >
+                          To read more exclusive stories from The Hollywood
+                          Reporter India's September 2025 print issue, pick up a
+                          copy of the magazine from your nearest book store or
+                          newspaper stand.
                         </span>
                       </p>
                       <p style={{ textAlign: "left" }} />
                       <p style={{ textAlign: "left" }}>
                         <span
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
+                          style={{ color: "rgb(0, 0, 0)", fontStyle: "italic" }}
                         >
-                          Watch out for our full interview with the actor,
-                          dropping at 8 PM tonight on{" "}
+                          To buy the digital issue of the{" "}
+                        </span>
+                        <span style={{ color: "black", fontStyle: "italic" }}>
+                          magazine,{" "}
                         </span>
                         <a
                           target="_blank"
                           rel="nofollow"
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                          href="https://www.youtube.com/@HollywoodReporterIndia"
+                          style={{ color: "black", fontStyle: "italic" }}
+                          href="https://www.magzter.com/IN/Business-Media-Pvt-Ltd/The-Hollywood-Reporter-India/Entertainment/"
                         >
-                          <span
-                            style={{ fontWeight: "bold", fontStyle: "italic" }}
-                          >
-                            The Hollywood Reporter India's YouTube channel
+                          <span style={{ color: "black", fontStyle: "italic" }}>
+                            please click here
                           </span>
                         </a>
-                        <span
-                          style={{ fontWeight: "bold", fontStyle: "italic" }}
-                        >
+                        <span style={{ color: "black", fontStyle: "italic" }}>
                           .
                         </span>
                       </p>
@@ -552,12 +1109,19 @@ const Article = () => {
                     <div className="Stories_breadcumSec__5W47j">
                       <ol className="Stories_breadcrumb__GxI6O">
                         <li className="Stories_breadcrumb-item__0eUTU">
-                          <a href="/tag/dulquer-salmaan">Dulquer Salmaan</a>
+                          <a href="/tag/shah-rukh-khan">Shah Rukh Khan</a>
                         </li>
                         <li className="Stories_breadcrumb-item__0eUTU">
-                          <a href="/tag/lokah-chapter-1-chandra">
-                            Lokah Chapter 1: Chandra
-                          </a>
+                          <a href="/tag/ranveer-singh">Ranveer Singh</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/hindi-cinema">hindi cinema</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/indian-cinema">indian cinema</a>
+                        </li>
+                        <li className="Stories_breadcrumb-item__0eUTU">
+                          <a href="/tag/vanity-vans">Vanity Vans</a>
                         </li>
                       </ol>
                     </div>
@@ -569,17 +1133,12 @@ const Article = () => {
             <div className="col-md-4 ln-cont">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-rhs-300x250-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-rhs-300x250-68d3a2bb0b49d6ebee18e9d2"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CKrwn7-G3Y8DFV2kZgIdqYoEGg"
+                  data-google-query-id="CJei2-f-y5ADFSin2AUdQPguEw"
                   style={{ marginBottom: 20 }}
-                >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-RHS-300_0__container__"
-                    style={{ border: "0pt none", width: 300, height: 0 }}
-                  />
-                </div>
+                ></div>
               </div>
               <div className="row mob-hidden">
                 <div className="col-md-12">
@@ -588,7 +1147,7 @@ const Article = () => {
                 <div className="col-md-12">
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/what-to-watch-this-week-the-bads-of-bollywood-jolly-llb-3-a-big-bold-beautiful-journey-and-more"
+                    href="/lifestyle/fashion/what-regina-cassandra-siddhartha-shankar-mozez-singh-and-aishwarya-sonar-wear-to-work"
                   >
                     <div className="image h100">
                       <img
@@ -598,7 +1157,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T09%253A17%253A09.759Z-what%2520to%2520watch%2520%25282%2529.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-23T11%253A05%253A33.484Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -610,18 +1169,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 24, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        What to Watch This Week: 'The Ba***ds of Bollywood,'
-                        'Jolly LLB 3,' 'A Big Bold Beautiful Journey' and More
+                        On-Set Wardrobes: What Regina Cassandra, Siddhartha
+                        Shankar, Mozez Singh and Aishwarya Sonar Wear To Work
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/we-wrote-omkara-in-eighteen-days-abhishek-chaubey-on-his-journey-with-vishal-bhardwaj"
+                    href="/lifestyle/travel/travel-like-karishma-tanna-how-the-actor-curated-an-unforgettable-vacation-in-croatia"
                   >
                     <div className="image h100">
                       <img
@@ -631,7 +1190,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T09%253A30%253A55.819Z-IMG_4162.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-19T06%253A24%253A31.600Z-Untitled%2520design_20251019_113040_0000.png&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -643,18 +1202,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">OCT 20, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Abhishek Chaubey on His Journey With Vishal Bhardwaj: We
-                        Wrote 'Omkara' In Eighteen Days
+                        Travel Like Karishma Tanna: How The Actor Curated an
+                        Unforgettable Vacation in Croatia
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/interviews/sharmila-tagore-interview-on-stardom-today-and-wanting-to-play-a-villainous-character-next"
+                    href="/lifestyle/fashion/vikram-phadnis-is-celebrating-35-yearsand-finally-making-his-hindi-film-debut"
                   >
                     <div className="image h100">
                       <img
@@ -664,7 +1223,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-16T08%253A13%253A18.276Z-Lead.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-14T08%253A57%253A36.966Z-1.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -676,19 +1235,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Interviews</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 14, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Sharmila Tagore on Stardom Today and Wanting to Play a
-                        'Villainous' Character Next: 'Villains, Too, Sometimes
-                        Have Much To Say...'
+                        Interview | Vikram Phadnis On Celebrating 35 Years and
+                        Making His Hindi Film Debut
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/delhi-high-court-to-rule-on-karan-johars-personality-rights-plea-on-september-17"
+                    href="/lifestyle/travel/the-bicester-collection-europes-villages-of-style-flavor-and-discovery"
                   >
                     <div className="image h100">
                       <img
@@ -698,7 +1256,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Fbms-new%2Farticle%2F-2024-09-21T11%253A15%253A29.957Z-Lead1-KJ.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-10T09%253A30%253A37.505Z-Bicester.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -709,19 +1267,25 @@ const Article = () => {
                       />
                     </div>
                     <div className="content">
+                      <div
+                        className="sponsored-tag"
+                        style={{ lineHeight: 1, fontWeight: 700 }}
+                      >
+                        Sponsored
+                      </div>
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">OCT 10, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Delhi High Court to Rule on Karan Johar’s Personality
-                        Rights Plea on September 17
+                        The Bicester Collection: Europe’s Villages of Style,
+                        Flavor, and Discovery
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/ustaad-bhagat-singh-the-pawan-kalyan-movie-completes-filming-sreeleela"
+                    href="/lifestyle/fashion/gurfateh-pirzada-on-neels-style-from-call-me-bae-and-why-jacob-elordi-inspires-him"
                   >
                     <div className="image h100">
                       <img
@@ -731,7 +1295,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T06%253A43%253A53.306Z-Untitled%2520design-185.jpg&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-09T05%253A50%253A49.207Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -743,18 +1307,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 10, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Ustaad Bhagat Singh': The Pawan Kalyan Movie Wraps Up
-                        Filming
+                        Gurfateh Pirzada on Neel's Style From 'Call Me Bae' And
+                        Why Jacob Elordi Inspires Him
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/interviews/bobby-deol-on-the-bads-of-bollywood-and-why-aryan-khan-is-a-good-actor-he-looks-like-his-father-but-hes-different"
+                    href="/lifestyle/fashion/from-deepika-padukone-to-angela-bassett-heres-why-jj-valaya-has-been-couturier-to-the-stars-since-1992"
                   >
                     <div className="image h100">
                       <img
@@ -764,7 +1328,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T03%253A35%253A17.756Z-Untitled%2520design_20250916_090438_0000.png&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-06T07%253A45%253A51.916Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -776,19 +1340,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Interviews</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">OCT 6, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Bobby Deol on 'The Ba***ds of Bollywood' and Why Aryan
-                        Khan is a Good Actor: 'He Looks Like His Father, But
-                        He's Different'
+                        From Deepika Padukone to Angela Bassett, Here's Why J.J.
+                        Valaya has Been Couturier to the Stars Since 1992
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-director-dominic-arun-on-franchises-future-we-know-how-this-is-going-to-end"
+                    href="/lifestyle/food/from-ananya-panday-to-suhana-khan-everyones-talking-about-gaijin-where-tokyo-meets-mumbai"
                   >
                     <div className="image h100">
                       <img
@@ -798,7 +1361,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-16T05%253A53%253A11.244Z-IMG_4155.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-10-02T06%253A42%253A18.807Z-Untitled%2520design%2520%25284%2529.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -810,18 +1373,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Food</span>
+                        <span className="timeline">OCT 2, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah' Director Dominic Arun on Franchise's Future: 'We
-                        Know How This Is Going to End'
+                        Everyone’s Talking About Gaijin, Where Tokyo Meets
+                        Mumbai
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/vimukt-in-search-of-the-sky-wins-netpac-award-at-tiff-2025"
+                    href="/lifestyle/travel/inside-dhvani-bhanushalis-dreamy-italy-trip-rome-amalfi-milan-and-more"
                   >
                     <div className="image h100">
                       <img
@@ -831,7 +1394,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-12T11%253A32%253A37.678Z-IMG_4087.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Feditor-images%2F2025-09-23T07%253A09%253A30.710Z-Lead.jpg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -843,18 +1406,18 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 16, 2025</span>
+                        <span className="category">Travel</span>
+                        <span className="timeline">SEP 29, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        Vimukt (In Search of the Sky) Wins NETPAC Award at TIFF
-                        2025{" "}
+                        Inside Dhvani Bhanushali’s Dreamy Italy Trip: Rome,
+                        Amalfi, Milan and More
                       </h3>
                     </div>
                   </a>
                   <a
                     className="side-card h-par updated"
-                    href="/features/insight/lokah-star-kalyani-priyadarshan-shares-her-father-priyardarshans-reaction-dont-let-success-get-to-your-head"
+                    href="/lifestyle/fashion/alia-bhatt-revisits-90s-gucci-by-tom-ford-at-the-bads-of-bollywood-premiere"
                   >
                     <div className="image h100">
                       <img
@@ -864,7 +1427,7 @@ const Article = () => {
                         data-nimg="fill"
                         className="imgcover"
                         sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T12%253A06%253A12.104Z-IMG_4149.JPEG&w=1920&q=75"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-18T09%253A22%253A33.234Z-WhatsApp%2520Image%25202025-09-18%2520at%25202.52.17%2520PM.jpeg&w=3840&q=75"
                         style={{
                           position: "absolute",
                           height: "100%",
@@ -876,46 +1439,45 @@ const Article = () => {
                     </div>
                     <div className="content">
                       <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
+                        <span className="category">Fashion</span>
+                        <span className="timeline">SEP 18, 2025</span>
+                      </div>
+                      <h3 className="card-title">
+                        Alia Bhatt Revisits ’90s Gucci by Tom Ford at 'The
+                        Ba***ds of Bollywood' Premiere
+                      </h3>
+                    </div>
+                  </a>
+                  <a
+                    className="side-card h-par updated"
+                    href="/lifestyle/fashion/cutting-out-the-karigar"
+                  >
+                    <div className="image h100">
+                      <img
+                        alt=""
+                        loading="lazy"
+                        decoding="async"
+                        data-nimg="fill"
+                        className="imgcover"
+                        sizes="100vw"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T08%253A40%253A51.214Z-Lead.jpg&w=3840&q=75"
+                        style={{
+                          position: "absolute",
+                          height: "100%",
+                          width: "100%",
+                          inset: 0,
+                          color: "transparent",
+                        }}
+                      />
+                    </div>
+                    <div className="content">
+                      <div className="d-flex flex-columnn align-items-center gap-2">
+                        <span className="category">Fashion</span>
                         <span className="timeline">SEP 15, 2025</span>
                       </div>
                       <h3 className="card-title">
-                        'Lokah' Star Kalyani Priyadarshan on Her Father’s
-                        Reaction To Film: 'He messaged Me — Don’t Let Success
-                        Get To Your Head'
-                      </h3>
-                    </div>
-                  </a>
-                  <a
-                    className="side-card h-par updated"
-                    href="/features/insight/lokah-michael-and-charlie-to-get-standalone-films-in-the-malayalam-films-universe"
-                  >
-                    <div className="image h100">
-                      <img
-                        alt=""
-                        loading="lazy"
-                        decoding="async"
-                        data-nimg="fill"
-                        className="imgcover"
-                        sizes="100vw"
-                        srcSet="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-15T09%253A47%253A33.289Z-tovino%2520and%2520dulquer.jpg&w=1920&q=75"
-                        style={{
-                          position: "absolute",
-                          height: "100%",
-                          width: "100%",
-                          inset: 0,
-                          color: "transparent",
-                        }}
-                      />
-                    </div>
-                    <div className="content">
-                      <div className="d-flex flex-columnn align-items-center gap-2">
-                        <span className="category">Insight</span>
-                        <span className="timeline">SEP 15, 2025</span>
-                      </div>
-                      <h3 className="card-title">
-                        'Lokah': Michael and Charlie to Get Standalone Films in
-                        The Malayalam Film's Universe?
+                        India’s Artisans Are Powering Global Fashion — But
+                        Getting None of the Credit
                       </h3>
                     </div>
                   </a>
@@ -923,17 +1485,12 @@ const Article = () => {
               </div>
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-rhs-300x600-68c7ec4d0215019d6ccfd0e0"
+                  id="div-gpt-ad-stories-rhs-300x600-68d3a2bb0b49d6ebee18e9d2"
                   data-cy="Ad"
                   className="ad-text"
-                  data-google-query-id="CJi3ob-G3Y8DFUijZgIdExUS7Q"
+                  data-google-query-id="CJDD3Of-y5ADFe-k2AUdPQkqPQ"
                   style={{ marginBottom: 20 }}
-                >
-                  <div
-                    id="google_ads_iframe_/23290324739/THRI-Desktop-RHS-300_1__container__"
-                    style={{ border: "0pt none", width: 300, height: 0 }}
-                  />
-                </div>
+                ></div>
               </div>
             </div>
           </div>
@@ -941,24 +1498,19 @@ const Article = () => {
       </section>
       <div className="ad-flex-all">
         <div
-          id="div-gpt-ad-stories-bottom-68c7ec4d0215019d6ccfd0e0"
+          id="div-gpt-ad-stories-bottom-68d3a2bb0b49d6ebee18e9d2"
           data-cy="Ad"
           className="ad-text"
-          data-google-query-id="CProo7-G3Y8DFYSpZgIdOB4Tfg"
-        >
-          <div
-            id="google_ads_iframe_/23290324739/THRI-Desktop-Bottom-300_0__container__"
-            style={{ border: "0pt none", width: 300, height: 0 }}
-          />
-        </div>
+          data-google-query-id="CPer3Of-y5ADFTqm2AUdlqkvQA"
+        ></div>
       </div>
       <div className="Stories_nextStoryContainer__Dr6xj container">
         <h2 className="Stories_nextStoryTitle__G3Ma4">Next Story</h2>
         <div className="Stories_nextStoryLine__l7CRg" />
       </div>
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68d3a2bb0b49d6ebee18e9d2"
+        data-slug="/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
         data-position="top"
         data-marker="true"
         islast="false"
@@ -969,12 +1521,12 @@ const Article = () => {
           height: 10,
           top: "10%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68d3a2bb0b49d6ebee18e9d2"
+        data-slug="/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
         data-position="upperMiddle"
         data-marker="true"
         islast="false"
@@ -985,12 +1537,12 @@ const Article = () => {
           height: 10,
           top: "30%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68d3a2bb0b49d6ebee18e9d2"
+        data-slug="/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
         data-position="middle"
         data-marker="true"
         islast="false"
@@ -1001,12 +1553,12 @@ const Article = () => {
           height: 10,
           top: "50%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68d3a2bb0b49d6ebee18e9d2"
+        data-slug="/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
         data-position="lowerMiddle"
         data-marker="true"
         islast="false"
@@ -1017,12 +1569,12 @@ const Article = () => {
           height: 10,
           top: "70%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
       <div
-        data-id="68c7ec4d0215019d6ccfd0e0"
-        data-slug="/features/insight/dulquer-salmaan-on-the-unexpected-success-of-lokah-we-thought-we-might-lose-money-on-this-film"
+        data-id="68d3a2bb0b49d6ebee18e9d2"
+        data-slug="/lifestyle/interiors/shah-rukh-khan-to-ranveer-singh-everything-to-know-about-actors-vanity-vans-in-bollywood"
         data-position="bottom"
         data-marker="true"
         islast="false"
@@ -1033,7 +1585,7 @@ const Article = () => {
           height: 10,
           top: "90%",
           pointerEvents: "none",
-          zIndex: -1,
+          zIndex: -9,
         }}
       />
     </div>
