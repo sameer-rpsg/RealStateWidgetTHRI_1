@@ -273,9 +273,6 @@
 
 // export default RealStateWidget1;
 
-
-
-
 import React, { useEffect, useRef, useState } from "react";
 import styles from "@/components/RealState.module.css";
 import gsap from "gsap";
@@ -318,121 +315,125 @@ const RealStateWidget1 = () => {
     return () => window.removeEventListener("resize", resizeHandler);
   }, []);
 
-const handleExpand = () => {
-  if (!containerRef.current) return;
+  const handleExpand = () => {
+    if (!containerRef.current) return;
 
-  const contentEl = containerRef.current.querySelector(
-    `.${styles.boxContent}`
-  );
-  if (!contentEl) return;
-
-  // Kill previous animation if any
-  if (animationRef.current) {
-    animationRef.current.kill();
-  }
-
-  containerRef.current.style.setProperty("--size-x", COLLAPSED_WIDTH);
-  containerRef.current.style.setProperty("--size-y", COLLAPSED_HEIGHT);
-
-  const contentRect = contentEl.getBoundingClientRect();
-  const fullWidth = contentRect.width;
-  const fullHeight = contentRect.height;
-
-  const tl = gsap.timeline({
-    onComplete: () => {
-      contentEl.classList.add(styles.show);
-      animationRef.current = null;
-    },
-  });
-gsap.to(`.${styles.box__preview}`,{
-})
-  animationRef.current = tl;
-
-  tl.to(containerRef.current, {
-    "--size-x": `${fullWidth}px`,
-    "--size-y": `${fullHeight}px`,
-    duration: 1.2,
-    ease: "power3.inOut",
-  });
-
-  tl.from(
-    fadeUpEls.current,
-    {
-      opacity: 0,
-      y: 100,
-      stagger: 0.1,
-      duration: 1.2,
-      ease: "power3.out",
-    },
-    "a"
-  );
-
-  tl.from(
-    fadeEls.current,
-    {
-      opacity: 0,
-      stagger: 0.05,
-      duration: 1.2,
-      ease: "power3.out",
-    },
-    "a"
-  );
-  tl.set(`.${styles.box__preview}`, { zIndex: 0 });
-
-  if (lineRef.current) {
-    tl.from(
-      lineRef.current,
-      {
-        scaleX: 0,
-        transformOrigin: "left center",
-        duration: 1,
-        ease: "power2.out",
-      },
-      ">-1"
+    const contentEl = containerRef.current.querySelector(
+      `.${styles.boxContent}`
     );
-  }
+    if (!contentEl) return;
 
-  setExpanded(true);
-};
+    // Kill previous animation if any
+    if (animationRef.current) {
+      animationRef.current.kill();
+    }
 
+    containerRef.current.style.setProperty("--size-x", COLLAPSED_WIDTH);
+    containerRef.current.style.setProperty("--size-y", COLLAPSED_HEIGHT);
 
-const handleCollapse = () => {
-  const contentEl = containerRef.current.querySelector(
-    `.${styles.boxContent}`
-  );
-  if (!contentEl) return;
+    const contentRect = contentEl.getBoundingClientRect();
+    const fullWidth = contentRect.width;
+    const fullHeight = contentRect.height;
 
-  // Kill any existing animation
-  if (animationRef.current) {
-    animationRef.current.kill();
-    animationRef.current = null;
-  }
+    const tl = gsap.timeline({
+      onComplete: () => {
+        contentEl.classList.add(styles.show);
+        animationRef.current = null;
+      },
+    });
+    gsap.to(`.${styles.box__preview}`, {});
+    animationRef.current = tl;
 
-  contentEl.classList.remove(styles.show);
+    tl.to(containerRef.current, {
+      "--size-x": `${fullWidth}px`,
+      "--size-y": `${fullHeight}px`,
+      duration: 1.2,
+      ease: "power3.inOut",
+    });
 
-  const tl = gsap.timeline();
+    tl.from(
+      fadeUpEls.current,
+      {
+        opacity: 0,
+        y: 100,
+        stagger: 0.1,
+        duration: 1.2,
+        ease: "power3.out",
+      },
+      "a"
+    );
 
-  animationRef.current = tl;
+    tl.from(
+      fadeEls.current,
+      {
+        opacity: 0,
+        stagger: 0.05,
+        duration: 1.2,
+        ease: "power3.out",
+      },
+      "a"
+    );
+    tl.set(`.${styles.box__preview}`, { zIndex: 0 });
 
-  tl.to(containerRef.current, {
-    "--size-x": COLLAPSED_WIDTH,
-    "--size-y": COLLAPSED_HEIGHT,
-    duration: 1.25,
-    ease: "power3.inOut",
-    onComplete: () => {
+    if (lineRef.current) {
+      tl.from(
+        lineRef.current,
+        {
+          scaleX: 0,
+          transformOrigin: "left center",
+          duration: 1,
+          ease: "power2.out",
+        },
+        ">-1"
+      );
+    }
+
+    setExpanded(true);
+  };
+
+  const handleCollapse = () => {
+    const contentEl = containerRef.current.querySelector(
+      `.${styles.boxContent}`
+    );
+    if (!contentEl) return;
+
+    // Kill any existing animation
+    if (animationRef.current) {
+      animationRef.current.kill();
       animationRef.current = null;
-    },
-  });
-  tl.set(`.${styles.box__preview}`, { zIndex: 9 });
+    }
 
+    contentEl.classList.remove(styles.show);
 
-  setExpanded(false);
-};
+    const tl = gsap.timeline();
 
+    animationRef.current = tl;
+
+    tl.to(containerRef.current, {
+      "--size-x": COLLAPSED_WIDTH,
+      "--size-y": COLLAPSED_HEIGHT,
+      duration: 1.25,
+      ease: "power3.inOut",
+      onComplete: () => {
+        animationRef.current = null;
+      },
+    });
+    tl.set(`.${styles.box__preview}`, { zIndex: 9 });
+
+    setExpanded(false);
+  };
 
   return (
-    <div className={styles.wrapper} style={{backgroundImage:"url(https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-24T07%253A47%253A29.162Z-Inline4.jpg&w=3840&q=75)"}}>
-     {/* <div className={styles.boxImgCntr}>
+    <div className={styles.wrapper}>
+      <video
+        className={styles.videoBg}
+        loop
+        muted
+        playsInline
+        autoPlay
+        src="https://www.studioakto.com/video/vid2.mp4"
+      ></video>
+      {/* <div className={styles.boxImgCntr}>
       <img className={styles.boxImg} src="https://www.datocms-assets.com/143478/1743156408-gr-hero.jpg?auto=format&fit=max&h=1920&q=85&w=1920" alt="" /></div> */}
       <div className={styles.box} ref={containerRef}>
         <div className={`${styles.boxContent} ${expanded ? styles.show : ""}`}>
@@ -468,11 +469,14 @@ const handleCollapse = () => {
                   </h2>
                 </div>
 
-                <div className={styles.imageWrapper} ref={(el) => el && (fadeEls.current[3] = el)}>
+                <div
+                  className={styles.imageWrapper}
+                  ref={(el) => el && (fadeEls.current[3] = el)}
+                >
                   <div className={styles.media_fill}>
                     <figure>
                       <img
-                        src="https://images.unsplash.com/photo-1716547286289-3e650d7bdf7a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHVuc3BhbHNofGVufDB8fDB8fHww"
+                        src="https://www.hollywoodreporterindia.com/_next/image?url=https%3A%2F%2Fcdn.hollywoodreporterindia.com%2Farticle%2F2025-09-24T07%253A47%253A29.160Z-Inline3.jpg&w=1920&q=75"
                         alt="Floor 1"
                       />
                     </figure>
@@ -503,10 +507,7 @@ const handleCollapse = () => {
                       className={`${styles.btn_norm__a} ${styles.__1}`}
                     />
 
-                    <div
-                      className={styles.btn_norm__mask}
-                      aria-hidden="true"
-                    >
+                    <div className={styles.btn_norm__mask} aria-hidden="true">
                       <div className={styles.btn_norm_label}>
                         <FaArrowRightLong
                           className={`${styles.btn_norm__a} ${styles.__2}`}
@@ -548,10 +549,3 @@ const handleCollapse = () => {
 };
 
 export default RealStateWidget1;
-
-
-
-
-
-
-
